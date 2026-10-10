@@ -16,7 +16,6 @@ if (menuToggle && navLinks) {
 const roles = [
   "Web Developer",
   "Data Science Enthusiast",
-  "Generative AI Learner",
   "Tech Internship Candidate",
 ];
 
